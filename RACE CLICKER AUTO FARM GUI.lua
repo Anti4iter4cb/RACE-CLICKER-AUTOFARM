@@ -6,7 +6,7 @@ local b = w:CreateFolder("Auto Farm") -- Creates the folder(U will put here your
 
 b:Label("Press for Wins",{
     TextSize = 25; -- Self Explaining
-    TextColor = Color3.fromRGB(Random); -- Self Explaining
+    TextColor = Color3.fromRGB("Random"); -- Self Explaining
     BgColor = Color3.fromRGB(254, 180, 33); -- Self Explaining
     
 }) 
