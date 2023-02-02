@@ -4,7 +4,7 @@ local w = library:CreateWindow("WhyHub") -- Creates the window
 
 local b = w:CreateFolder("Auto Farm") -- Creates the folder(U will put here your buttons,etc)
 
-b:Label("Press for Wins",{
+b:Label("Sub to WhyHub in YouTube!",{
     TextSize = 25; -- Self Explaining
     TextColor = Color3.fromRGB(39, 21, 232); -- Self Explaining
     BgColor = Color3.fromRGB(186, 36, 197); -- Self Explaining
